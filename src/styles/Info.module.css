@@ -1,0 +1,14 @@
+.list li::first-letter {
+    text-transform:capitalize;
+}
+
+.error, main p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error img, main img{
+    margin-left: 10px;
+    border-radius: 0.3rem;
+}

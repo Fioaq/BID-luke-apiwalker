@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.navbar div{
+    margin: 20px;
+}
+
+.navbar label{
+    margin: 10px;
+}
